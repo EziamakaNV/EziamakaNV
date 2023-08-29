@@ -1,5 +1,3 @@
----
-
 ### Hi there 👋
 
 <!--
@@ -26,5 +24,3 @@
 🤔 I’m looking for help with diving deeper into **AI technologies**.
 
 Feel free to take a look at my repositories and let's get in touch!
-
----

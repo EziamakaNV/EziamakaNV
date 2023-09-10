@@ -5,7 +5,7 @@
 -->
 
 👩‍💻 I'm a Software Developer specializing in **C#** and **ASP.NET Core framework**.  
-🌐 I also have solid experience in **Frontend Development**, including Angular and React.  
+🌐 I also have secondary experience in **Frontend Development**, including Angular and React.  
 📐 I'm proficient in **Systems Design** and I'm a certified **AWS Solutions Architect** at the Associate level.  
 💼 Currently, I'm part of the innovation team at one of the leading banks in Nigeria, where I ideate and build products that not only solve customer problems but also bring them joy.  
 🤓 I love to **learn new things**. Recently completed a course on **Blockchain Development** from Udacity and currently delving into **everything AI** through another Udacity course.  
